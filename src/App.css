@@ -13,4 +13,6 @@
   box-shadow: 1px -1px 20px rgba(0, 0, 0, 0.15);
   position: relative;
   overflow: hidden;
+  /* padding-top: 10px; */
+  /* padding-left: 10px; */
 }
